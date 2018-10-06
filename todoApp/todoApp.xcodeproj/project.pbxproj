@@ -20,6 +20,9 @@
 		F4672B382168896200DC31C9 /* TodoEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B372168896200DC31C9 /* TodoEntity.swift */; };
 		F4672B3A2168918D00DC31C9 /* TodoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B392168918D00DC31C9 /* TodoModel.swift */; };
 		F4672B3E2168996200DC31C9 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B3D2168996200DC31C9 /* DateExtension.swift */; };
+		F4672B4021689E7A00DC31C9 /* IndexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B3F21689E7A00DC31C9 /* IndexViewController.swift */; };
+		F4672B422168A0FD00DC31C9 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B412168A0FD00DC31C9 /* EditViewController.swift */; };
+		F4672B442168A31200DC31C9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B432168A31200DC31C9 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +67,9 @@
 		F4672B372168896200DC31C9 /* TodoEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoEntity.swift; sourceTree = "<group>"; };
 		F4672B392168918D00DC31C9 /* TodoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoModel.swift; sourceTree = "<group>"; };
 		F4672B3D2168996200DC31C9 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		F4672B3F21689E7A00DC31C9 /* IndexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexViewController.swift; sourceTree = "<group>"; };
+		F4672B412168A0FD00DC31C9 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
+		F4672B432168A31200DC31C9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		FFD963F1E9ACE2AAEDC41598 /* Pods_todoAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_todoAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -152,6 +158,9 @@
 				F4672B372168896200DC31C9 /* TodoEntity.swift */,
 				F4672B392168918D00DC31C9 /* TodoModel.swift */,
 				F4672B3D2168996200DC31C9 /* DateExtension.swift */,
+				F4672B3F21689E7A00DC31C9 /* IndexViewController.swift */,
+				F4672B412168A0FD00DC31C9 /* EditViewController.swift */,
+				F4672B432168A31200DC31C9 /* DetailViewController.swift */,
 			);
 			path = todoApp;
 			sourceTree = "<group>";
@@ -391,6 +400,9 @@
 				F4672B3A2168918D00DC31C9 /* TodoModel.swift in Sources */,
 				F4672B0C2168834E00DC31C9 /* ViewController.swift in Sources */,
 				F4672B0A2168834E00DC31C9 /* AppDelegate.swift in Sources */,
+				F4672B4021689E7A00DC31C9 /* IndexViewController.swift in Sources */,
+				F4672B422168A0FD00DC31C9 /* EditViewController.swift in Sources */,
+				F4672B442168A31200DC31C9 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
