@@ -19,6 +19,7 @@
 		F4672B2A2168834F00DC31C9 /* todoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B292168834F00DC31C9 /* todoAppUITests.swift */; };
 		F4672B382168896200DC31C9 /* TodoEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B372168896200DC31C9 /* TodoEntity.swift */; };
 		F4672B3A2168918D00DC31C9 /* TodoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B392168918D00DC31C9 /* TodoModel.swift */; };
+		F4672B3E2168996200DC31C9 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4672B3D2168996200DC31C9 /* DateExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		F4672B2B2168834F00DC31C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4672B372168896200DC31C9 /* TodoEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoEntity.swift; sourceTree = "<group>"; };
 		F4672B392168918D00DC31C9 /* TodoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoModel.swift; sourceTree = "<group>"; };
+		F4672B3D2168996200DC31C9 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
 		FFD963F1E9ACE2AAEDC41598 /* Pods_todoAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_todoAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -149,6 +151,7 @@
 				F4672B152168834F00DC31C9 /* Info.plist */,
 				F4672B372168896200DC31C9 /* TodoEntity.swift */,
 				F4672B392168918D00DC31C9 /* TodoModel.swift */,
+				F4672B3D2168996200DC31C9 /* DateExtension.swift */,
 			);
 			path = todoApp;
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4672B382168896200DC31C9 /* TodoEntity.swift in Sources */,
+				F4672B3E2168996200DC31C9 /* DateExtension.swift in Sources */,
 				F4672B3A2168918D00DC31C9 /* TodoModel.swift in Sources */,
 				F4672B0C2168834E00DC31C9 /* ViewController.swift in Sources */,
 				F4672B0A2168834E00DC31C9 /* AppDelegate.swift in Sources */,
